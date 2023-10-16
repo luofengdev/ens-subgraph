@@ -33,10 +33,6 @@
       "address": "0x7242eD1170Da03E912e579AeAb430Dbd15Ef5dD7",
       "startBlock": 9836254
     },
-    "ENSRegistryOld": {
-      "address": "0xfB7475600Cde7513d7B8BDcf3cd91360489A9a29",
-      "startBlock": 9836250
-    },
     "Resolver": {
       "startBlock": 9836308
     },
