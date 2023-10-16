@@ -30,31 +30,31 @@
   },
   "goerli": {
     "ENSRegistry": {
-      "address": "0x00000000000C2E074eC69A0dFb2997BA6C7d2e1e",
-      "startBlock": 2086611
+      "address": "0x7242eD1170Da03E912e579AeAb430Dbd15Ef5dD7",
+      "startBlock": 9836254
     },
     "ENSRegistryOld": {
-      "address": "0x112234455c3a32fd11230c42e7bccd4a84e02010",
-      "startBlock": 43152
+      "address": "0xfB7475600Cde7513d7B8BDcf3cd91360489A9a29",
+      "startBlock": 9836250
     },
     "Resolver": {
-      "startBlock": 43152
+      "startBlock": 9836308
     },
     "BaseRegistrar": {
-      "address": "0x57f1887a8BF19b14fC0dF6Fd9B2acc9Af147eA85",
-      "startBlock": 2086621
+      "address": "0x6333A338B593E1eDEa00083462C0AA61b7f9b6bB",
+      "startBlock": 9836277
     },
     "EthRegistrarControllerOld": {
-      "address": "0x283Af0B28c62C092C9727F1Ee09c02CA627EB7F5",
-      "startBlock": 2086640
+      "address": "0x6E2285946c59c352fa45aDEF8005250a8AdCE9dc",
+      "startBlock": 9836299
     },
     "EthRegistrarController": {
-      "address": "0xCc5e7dB10E65EED1BBD105359e7268aa660f6734",
-      "startBlock": 8649286
+      "address": "0x268519db66bC0224556359398c9B113eA179C8C7",
+      "startBlock": 9836302
     },
     "NameWrapper": {
-      "address": "0x114D4603199df73e7D157787f8778E21fCd13066",
-      "startBlock": 8649122
+      "address": "0xDC58E7CC933eE75a0B54C93f940C37adfe75989F",
+      "startBlock": 9836288
     }
   },
   "sepolia": {

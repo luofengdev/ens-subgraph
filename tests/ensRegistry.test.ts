@@ -10,7 +10,7 @@ import { NewOwner, NewResolver } from "../src/types/ENSRegistry/EnsRegistry";
 import { Domain } from "../src/types/schema";
 
 const ETH_NAMEHASH =
-  "0x8544fc7218df5ae04007a85c4aad404496768a619cc81f2ce17c3bed39cfe88c";
+  "0x93cdeb708b7545dc668eb9280176169d1c33cfd8ed6f04690a0bcc88a93fc4ae";
 
 const DEFAULT_OWNER = "0x89205A3A3b2A69De6Dbf7f01ED13B2108B2c43e7";
 
